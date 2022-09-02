@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+url: "http://achamorroman.github.io"
+baseurl: ""
+
 # Name of website
 title: My Website
 
